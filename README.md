@@ -1,1 +1,3 @@
+# Descriptive analysis of demographic data
+
 This project aims to perform demographic analysis of demographic data of 228 countries from 2002 and 2022. The data is comprised of life expectancy at birth and total fertility rates for these countries. At first, statistical analysis is performed for the year 2022 with frequency distributions and measures of central tendency. Next, we aim to find monotonic relationship between the variables. Further, the variability of variables within and between subregions is discussed. Finally, data from 2022 is compared to data from 2002 to see how trends have altered over the last two decades.
